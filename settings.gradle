@@ -1,0 +1,4 @@
+include ':demoKotlin'
+include ':CameraView'
+include ':app'
+rootProject.name = "CameraEngineTest"

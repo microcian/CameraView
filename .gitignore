@@ -30,6 +30,8 @@ cache.properties.lock
 gradle/
 
 app/build/
+CameraView/build/
+demoKotlin/build/
 
 
 /.idea/caches
